@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToDo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="addItem">Add Task</string>
+    <string name="editItem">Edit</string>
+    <string name="deleteItem">Delete</string>
+    <string name="done">Done</string>
+    <string name="completeTaskBy">Complete Task By:</string>
+
+    <string name="hint_task_name">Task</string>
+    <string name="hint_task_description">Task Description</string>
+    <string name="hint_noDateSet">No Date Set</string>
+
+    <string name="confirmTitle">Are you sure?</string>
+    <string name="confirmMessage">This will permanently delete the information about this task.</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+
+    <string name="button_save_task">Save</string>
+
+    <string name="errorTitle">Task name is required.</string>
+    <string name="errorMessage">You must put in a task.</string>
+    <string name="errorButton">OK</string>
+
+    <string name="taskOptional">Optional</string>
+
+    <string name="action_task_save">Save</string>
+
+    <string name="cardTaskName">Name</string>
+    <string name="cardTaskDate">Date</string>
+    <string name="cardTaskDescription">Description</string>
+
+    <string name="position"></string>
+    <string name="id"></string>
+
+
+</resources>
